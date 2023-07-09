@@ -1,64 +1,87 @@
-# YouTube Clone Website (Frontend)
+# My Portfolio
 
-![YouTube Clone Website](./yt_logo.png)
+[![GitHub license](https://img.shields.io/github/license/meetmarvelous/my_portfolio)](https://github.com/meetmarvelous/my_portfolio/blob/main/LICENSE)
+[![Website](https://img.shields.io/website?label=marvelbyte.vercel.app&url=https%3A%2F%2Fmarvelbyte.vercel.app%2F)](https://marvelbyte.vercel.app/)
 
-This is a frontend-only YouTube clone website built using HTML, CSS, and JavaScript. The website aims to replicate the user interface and functionality of YouTube, allowing users to search for and watch videos, as well as manage their playlists.
+This is the source code repository for **My Portfolio** website, which showcases my personal projects, skills, and experience. The website is live and can be accessed at [marvelbyte.vercel.app](https://marvelbyte.vercel.app/).
+
+## Table of Contents
+
+- [My Portfolio](#my-portfolio)
+  - [Table of Contents](#table-of-contents)
+  - [About](#about)
+  - [Technologies Used](#technologies-used)
+  - [Features](#features)
+  - [Getting Started](#getting-started)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [License](#license)
+
+## About
+
+**My Portfolio** is a personal website that serves as a showcase for my projects, skills, and experience. It provides visitors with an overview of my work and allows them to learn more about me and my expertise. The website is designed to be visually appealing, user-friendly, and responsive across various devices.
+
+## Technologies Used
+
+The following technologies and tools were used to develop and deploy **My Portfolio**:
+
+- HTML5
+- CSS3
+- JavaScript
+- [React](https://reactjs.org/)
+- [Next.js](https://nextjs.org/)
+- [Vercel](https://vercel.com/)
 
 ## Features
 
-- Search for videos by keywords
-- Watch videos
-- Display video details (title, description, views, likes, dislikes)
-- Manage playlists (create, edit, delete)
-- Play videos in fullscreen mode
-- Responsive design for mobile and desktop
+- Home page with an introduction and overview of my skills and experience.
+- Project gallery showcasing my portfolio projects.
+- Detailed project pages providing information about each project.
+- Contact form for visitors to get in touch with me.
+- Responsive design to ensure compatibility across devices.
 
-## Installation
+## Getting Started
 
-To run the YouTube clone website locally, follow these steps:
+To get a local copy of the project up and running, follow these steps:
 
-### 1. Clone the repository:
+1. Clone the repository:
 
-```bash
-git clone https://github.com/meetmarvelous/youtube-clone.git
-```
+   ```bash
+   git clone https://github.com/meetmarvelous/my_portfolio.git
+   ```
 
-### 2. Navigate to the project directory:
-```bash
-cd youtube-clone
-```
-### 3. Open the `index.html` file in your web browser.
+2. Navigate to the project directory:
 
---- 
+   ```bash
+   cd my_portfolio
+   ```
+
+3. Install the dependencies:
+
+   ```bash
+   npm install
+   ```
 
 ## Usage
 
-1. Open the YouTube clone website in your web browser.
-2. Use the search bar to search for videos by entering keywords.
-3. Click on a video thumbnail to watch the selected video.
-4. While watching a video, you can view its details, such as title, description, views, likes, and dislikes.
-5. To manage playlists, click on the "Playlist" button and perform actions like creating, editing, or deleting playlists.
-6. To enter fullscreen mode, click on the fullscreen button located at the bottom right corner of the video player.
+To start the development server, run the following command:
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser to view the website.
 
 ## Contributing
 
-Contributions are welcome! If you would like to contribute to this project, please follow these steps:
+Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
 
 1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make the necessary changes and commit your code.
-4. Push your changes to your forked repository.
-5. Submit a pull request describing the changes you've made.
+2. Create a new branch for your contribution.
+3. Make your changes and commit them.
+4. Push your changes to your fork.
+5. Submit a pull request to the main repository.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Acknowledgements
-
-- The design and functionality of this YouTube clone are inspired by the original YouTube website.
-- Special thanks to [OpenAI](https://openai.com) for providing the ChatGPT model that assisted in the creation of this README file.
-
-## Contact
-
-If you have any questions, suggestions, or feedback, feel free to contact me at [meetmarvelous@gmail.com](mailto:meetmarvelous@gmail.com).
+This project is licensed under the [MIT License](https://github.com/meetmarvelous/my_portfolio/blob/main/LICENSE).
